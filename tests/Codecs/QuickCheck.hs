@@ -16,6 +16,7 @@ import qualified Data.ByteString as B
 import qualified Data.ByteString.Char8 as BC
 
 import Database.PostgreSQL.Driver
+import Database.PostgreSQL.Driver.Query
 import Database.PostgreSQL.Protocol.DataRows
 import Database.PostgreSQL.Protocol.Types
 import Database.PostgreSQL.Protocol.Store.Encode
